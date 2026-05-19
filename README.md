@@ -23,12 +23,10 @@ I'm driven by curiosity, innovation, and a commitment to using data to solve cha
 ### Data Analyst, Hanover Re
 *Ennovation pvt ltd | Current*  
 
-- **Intelligent Insurance Data Analysis**: Handle and analyze comprehensive insurance data from Hanover Re, encompassing policy performance, claims analytics, predictive risk assessment, and customer behavior patterns using AI-powered techniques.  
-- **AI-Powered Insights Generation**: Leverage machine learning algorithms and statistical methods to extract high-value, actionable insights from complex datasets that drive strategic decision-making and operational excellence.  
-- **Advanced Analytics & Visualization**: Develop interactive dashboards and intelligent reports using advanced visualization tools that communicate data stories to stakeholders and facilitate data-driven business strategies.  
-- **Predictive Risk Modeling**: Build and deploy predictive models to assess insurance risk with precision, identify fraud patterns, and forecast claims trends using ensemble methods and deep learning techniques.  
-- **Data Pipeline Optimization**: Design and implement automated data workflows and ETL pipelines leveraging AI and automation techniques to streamline analysis of large-scale insurance datasets and reduce processing time.  
-- **Business Intelligence Solutions**: Translate complex data into strategic recommendations that optimize operational efficiency, enhance underwriting decisions, and maximize business value through data-driven strategies.
+- Engineered end-to-end data pipelines for insurance analytics across **5+ major institutions** (ICICI, Bharti AXA, HDFC, PNB, and others)
+- Implemented sophisticated **financial logic frameworks** for accurate data ingestion, cleaning, and compliance with regulatory standards
+- Extracted high-value insights spanning premium calculations, claims forecasting, risk stratification, and customer segmentation
+- Architected an **automated workflow engine** that reduced manual processing time by **80%+** and enables real-time analytics
 
 ---
 
