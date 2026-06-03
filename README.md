@@ -26,8 +26,7 @@ I'm driven by curiosity, innovation, and a commitment to using data to solve cha
 - Engineered end-to-end data pipelines for insurance analytics across **5+ major institutions** (ICICI, Bharti AXA, HDFC, PNB, and others)
 - Implemented sophisticated **financial logic frameworks** for accurate data ingestion, cleaning, and compliance with regulatory standards
 - Extracted high-value insights spanning premium calculations, claims forecasting, risk stratification, and customer segmentation
-- Architected an **automated workflow engine** that reduced manual processing time by **80%+** and enables real-time analytics
-
+- Architected an **automated workflow engine** that reduced manual processing time by **80%+** and enables real-time analysis
 ---
 
 ## Tech Stack & Tools 🛠️
