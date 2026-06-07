@@ -23,10 +23,14 @@ I'm driven by curiosity, innovation, and a commitment to using data to solve cha
 ### Data Analyst, Hanover Re
 *Ennovation pvt ltd | Current*  
 
-- Engineered end-to-end data pipelines for insurance analytics across **5+ major institutions** (ICICI, Bharti AXA, HDFC, PNB, and others)
-- Implemented sophisticated **financial logic frameworks** for accurate data ingestion, cleaning, and compliance with regulatory standards
-- Extracted high-value insights spanning premium calculations, claims forecasting, risk stratification, and customer segmentation
-- Architected an **automated workflow engine** that reduced manual processing time by **80%+** and enables real-time analysis
+-	Architected end-to-end Python ETL pipelines across 5+ major insurance institutions (ICICI Lombard, Bharti AXA, HDFC, PNB); replaced 5-hour manual workflows with 15–20 minute automated runs, achieving an 80%+ efficiency gain.
+-	Built a Python claims detection engine to flag faulty and duplicate entries at ingestion, cutting audit time from 4 hours to under 30 minutes and reducing financial risk exposure across high-value reinsurance treaties.
+-	Developed an automated summary file generation and upload tool, reducing processing time from 1 hour to 10 minutes (94% reduction) and enabling near real-time reporting for stakeholders.
+-	Wrote Python-SQL scripts to extract and process large-scale actuarial datasets from MS-SQL Server, cutting treaty analysis time from 2 weeks to 11 hours (~97% reduction).
+-	Designed a multi-conditional premium validation bot to cross-check insurance premiums against actuarial formulas, compressing a 3-day manual audit into 20 minutes and eliminating reconciliation errors in multi-crore treaties.
+-	Built and maintained quarterly Power BI dashboards with advanced DAX measures, converting complex SQL outputs into board-level financial reports for Hannover Re senior global stakeholders.
+-	Deployed Outlook automation bots to Hannover Re's South Africa operations and presented the Full Booking Automation Suite to Global HQ, earning international recognition for driving enterprise digital transformation.
+
 ---
 
 ## Tech Stack & Tools 🛠️
