@@ -82,4 +82,3 @@ I'm always excited to discuss innovative ideas, collaboration opportunities, or 
 
 ---
 
-*"Data is the new oil." – Embrace the power of data to transform the world!* 🌟
